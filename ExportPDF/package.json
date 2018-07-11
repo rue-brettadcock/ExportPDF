@@ -1,0 +1,11 @@
+{
+  "name": "exportpdf",
+  "version": "1.0.0",
+  "description": "try to use nodejs to export pdf in asp.net core app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Adcock",
+  "license": "ISC"
+}
